@@ -1,0 +1,20 @@
+{
+  "name": "daraz-automate",
+  "version": "1.0.0",
+  "description": "daraz test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "daraz",
+    "automation"
+  ],
+  "author": "cope automation",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
