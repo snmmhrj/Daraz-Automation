@@ -14,7 +14,10 @@
   ],
   "author": "cope automation",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^6.8.0"
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.1.0",
+    "cypress-xpath": "^1.6.2",
+    "xpath": "0.0.32"
   }
 }
