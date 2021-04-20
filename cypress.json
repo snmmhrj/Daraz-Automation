@@ -1,1 +1,4 @@
-{}
+{
+"execTimeout":50000,
+"pageLoadTimeout":50000
+}
